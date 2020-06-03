@@ -1,4 +1,3 @@
-const data = {
   "records": [
     {
       id: 8721,
@@ -16,4 +15,3 @@ const data = {
       author: "Barbara DeAngelis"
     }
   ]
-}
